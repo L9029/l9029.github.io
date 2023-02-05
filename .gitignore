@@ -1,4 +1,4 @@
-_site
+#_site
 .DS_Store
 .jekyll
 .jekyll-metadata
@@ -11,3 +11,4 @@ package.json
 LICENSE
 Original_README.md
 CNAME
+_posts
