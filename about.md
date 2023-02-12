@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
+title: Acerca de Nosotros
 permalink: /about/
 ---
 
-Some information about you!
+### ¿Quiénes somos?
 
-### More Information
+Somos un grupo de estudiantes que tiene como objetivo aplicar los conocimientos adquiridos de la carrera de Informatica y brindar le nuestros conocimientos a la comunidad en el mantenimiento de los equipos que esta posee.
 
-A place to include any other types of information that you'd like to include about yourself.
+### ¿Quieres saber de nosotros?
 
-### Contact me
+link de cada integrante aqui
+
+### Contactanos
 
 [email@domain.com](mailto:email@domain.com)
