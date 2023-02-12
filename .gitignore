@@ -1,4 +1,4 @@
-_site
+#_site
 .DS_Store
 .jekyll
 .jekyll-metadata
@@ -8,3 +8,7 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+LICENSE
+Original_README.md
+CNAME
+_posts
