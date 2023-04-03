@@ -4,14 +4,15 @@ title: Acerca de Nosotros
 permalink: /about/
 ---
 
-### ¿Quiénes somos?
+### ¿Quiénes somos? ###
 
-Somos un grupo de estudiantes que tiene como objetivo aplicar los conocimientos adquiridos de la carrera de Informatica y brindar le nuestros conocimientos a la comunidad en el mantenimiento de los equipos que esta posee.
+<p style="text-align: justify">
+    Somos un grupo de estudiantes que tiene como objetivo implementar los conocimientos adquiridos de la carrera de Informatica y brindar le nuestros conocimientos a la comunidad en el mantenimiento de los equipos que esta posee.
+</p>
 
-### ¿Quieres saber de nosotros?
-
-link de cada integrante aqui
-
-### Contactanos
-
-[email@domain.com](mailto:email@domain.com)
+### Contactanos ###
+- Oca Ángel: [angeloca03@gmail.com](mailto:angeloca03@gmail.com)
+- Montilla Andrés: [montillaandres42@gmail.com](mailto:email@domain.com)
+- Bastidas Eiver: [davidbastidas0640@gmail.com](mailto:email@domain.com)
+- López Oshin: [oshinbiri2412lopez@gmail.com](mailto:email@domain.com)
+- Molina Iván: [ivanricardomolina1703@gmail.com](mailto:email@domain.com)
