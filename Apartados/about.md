@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Acerca de Nosotros
-permalink: /about/
 ---
 
 ### ¿Quiénes somos? ###

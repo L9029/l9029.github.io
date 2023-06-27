@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Primera Defensa del Proyecto
+title: Defensa del Proyecto
 ---
 
 <div style="text-align: justify">
