@@ -1,26 +1,30 @@
 ---
-layout: post
+layout: page
 title: Defensa del Proyecto
 ---
 
 <div style="text-align: justify">
-    El dia Lunes 27 de Marzo del 2023, se realizarón las defensas respectivas al proyecto, la cual el equipo de investigación participo mostrando la problematica que presenta la comunidad, donde se encuentra ubicada y la factibilidad del proyecto que se desea realizar.
+    Las siguientes Diapositivas son las que el equipo uso para la defensa respectiva del proyecto, la cual el equipo de investigación participo mostrando la problematica que presenta la comunidad, donde se encuentra ubicada y la factibilidad del plan que se desea implementar en la comunidad.
 </div>
 
 ## Diapositivas de la Presentación ##
 
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/Portada.jpg)
+![_config.yml]({{ site.baseurl }}/images/Diapositivas/portada.png)
 
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/Agenda.jpg)
+![_config.yml]({{ site.baseurl }}/images/Diapositivas/agenda.png)
 
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/Comunidad.jpg)
+![_config.yml]({{ site.baseurl }}/images/Diapositivas/comunidad1.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/Problema.jpg)
+![_config.yml]({{ site.baseurl }}/images/Diapositivas/comunidad2.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/Objetivos.jpg)
+![_config.yml]({{ site.baseurl }}/images/Diapositivas/problema.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/Justificacion.jpg)
+![_config.yml]({{ site.baseurl }}/images/Diapositivas/objetivos.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/Factibilidad.jpg)
+![_config.yml]({{ site.baseurl }}/images/Diapositivas/justificacion.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/Maxima.jpg)
+![_config.yml]({{ site.baseurl }}/images/Diapositivas/factibilidad.jpg)
+
+![_config.yml]({{ site.baseurl }}/images/Diapositivas/cronograma.jpg)
+
+![_config.yml]({{ site.baseurl }}/images/Diapositivas/maxima.jpg)
