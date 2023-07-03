@@ -13,18 +13,18 @@ title: Defensa del Proyecto
 
 ![_config.yml]({{ site.baseurl }}/images/Diapositivas/agenda.png)
 
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/comunidad1.jpg)
+![_config.yml]({{ site.baseurl }}/images/Diapositivas/comunidad1.png)
 
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/comunidad2.jpg)
+![_config.yml]({{ site.baseurl }}/images/Diapositivas/comunidad2.png)
 
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/problema.jpg)
+![_config.yml]({{ site.baseurl }}/images/Diapositivas/problema.png)
 
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/objetivos.jpg)
+![_config.yml]({{ site.baseurl }}/images/Diapositivas/objetivos.png)
 
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/justificacion.jpg)
+![_config.yml]({{ site.baseurl }}/images/Diapositivas/justificacion.png)
 
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/factibilidad.jpg)
+![_config.yml]({{ site.baseurl }}/images/Diapositivas/factibilidad.png)
 
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/cronograma.jpg)
+![_config.yml]({{ site.baseurl }}/images/Diapositivas/cronograma.png)
 
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/maxima.jpg)
+![_config.yml]({{ site.baseurl }}/images/Diapositivas/maxima.png)
