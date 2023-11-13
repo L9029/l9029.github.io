@@ -8,23 +8,3 @@ title: Defensa del Proyecto
 </div>
 
 ## Diapositivas de la Presentación ##
-
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/portada.png)
-
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/agenda.png)
-
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/comunidad1.png)
-
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/comunidad2.png)
-
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/problema.png)
-
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/objetivos.png)
-
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/justificacion.png)
-
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/factibilidad.png)
-
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/cronograma.png)
-
-![_config.yml]({{ site.baseurl }}/images/Diapositivas/maxima.png)
